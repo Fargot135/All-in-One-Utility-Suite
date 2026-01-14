@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎯 PET-project - Multifunctional Desktop Application
 A desktop application built with Python and Tkinter that combines weather forecasting, idea management, and workout planning features with an animated wave background.
 Show Image
@@ -176,3 +177,7 @@ Python community for excellent documentation
 
 
 Made with ❤️ as a learning project
+=======
+# All-in-One-Utility-Suite
+Multi-tool app with weather, randomizer, and training plans using CustomTkinter
+>>>>>>> 3b9ac955bc25fc0f1956b8182656c30ff33b0dc8
