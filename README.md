@@ -247,4 +247,4 @@ This is a personal learning project, but suggestions and feedback are welcome!
 
 **Made with ❤️ as a learning project**
 
-</div>
+</div>  
